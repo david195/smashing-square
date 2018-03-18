@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Space Scape\game\Assets\scripts\rock.cs">
+    <Files>
+      <File FileName="..\..\Space Scape\game\Assets\scripts\rock.cs" Line="12" Column="39" />
+      <File FileName="..\..\Space Scape\game\Assets\scripts\inicio.cs" Line="16" Column="86" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
